@@ -1,0 +1,22 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% if page.subtitle %}
+    <h2 class="custom-subtitle">{{ page.subtitle }}</h2>
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+</div>
+
+<style>
+    .custom-subtitle {
+        font-size: 1.1em;  /* Adjust this value to get the desired font size */
+        margin-bottom: 30px;  /* Adjust this value to control the space below the subtitle */
+        font-weight: normal;
+    }
+</style>
