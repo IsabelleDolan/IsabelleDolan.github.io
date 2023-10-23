@@ -1,8 +1,8 @@
 ---
 title: "Designing and Simulating Wavelength Shifting Geometry in an Active Helium Target"
 header:
-  teaser: /assets/images/target.PNG
-excerpt: I designed and simulated wavelength shifting geometry for a proposed active helium target at the Mainz Microtron in Germany as part of my honours thesis.
+  teaser: /assets/images/target.png
+excerpt: "I designed and simulated wavelength shifting geometry for a proposed active helium target at the Mainz Microtron in Germany as part of my honours thesis."
 order: 1
 share: false
 layout: single
@@ -71,7 +71,7 @@ To read the full research, check out the following resources:
     </div>
     <div class="image-container">
         <a href="/assets/files/undergrad_thesis.pdf">
-            <!-- Here's the addition of the shadow-img class -->
+            <!-- The addition of the shadow-img class -->
             <img class="shadow-img" src="/assets/images/thesis_screenshot.png" alt="undergrad_thesis"/>
         </a>
     </div>

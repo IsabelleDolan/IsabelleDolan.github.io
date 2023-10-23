@@ -61,8 +61,7 @@ include:
 # Author profile
 author:
   name: "Isabelle Dolan"
-  #avatar: "/assets/images/profile_photo.jpg"
-  avatar: "/assets/images/profile_photo.jpg"
+  avatar: "/assets/images/profile_photo.JPG"
   bio: >
     R&D engineer at Formlabs building next generation 3D printers.
     Studied physics and math at Mount Allison University.
