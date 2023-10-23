@@ -21,7 +21,7 @@ title: Isabelle Dolan
 email: isabelle.dolan24@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Engineering portfolio for Isabelle Dolan.
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://IsabelleDolan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  IsabelleDolan
 repository: "IsabelleDolan/IsabelleDolan.github.io"
@@ -61,7 +61,7 @@ author:
   name: "Isabelle Dolan"
   avatar: "/assets/images/profile_photo.jpg"
   bio: >
-    R&D engineer at Formlabs building high quality 3D printers.
+    R&D engineer at Formlabs building next generation 3D printers.
     Studied physics and math at Mount Allison University.
   location: "Somerville, MA"
   links:
