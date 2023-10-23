@@ -57,10 +57,10 @@ This research focused on the methods used to correct for this phenomenon, called
 
 <div class="container">
     <div class="title">
-        <a href="/assets/files/pairpol_presentation.pdf">Presentation</a>
+        <a href="/assets/files/pairpol_presentation.pdf" target="_blank" >Presentation</a>
     </div>
     <div class="image-container">
-        <a href="/assets/files/pairpol_presentation.pdf">
+        <a href="/assets/files/pairpol_presentation.pdf" target="_blank">
             <!-- Here's the addition of the shadow-img class -->
             <img class="shadow-img" src="/assets/images/pairpol_screenshot.png" alt="pairpol"/>
         </a>

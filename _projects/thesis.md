@@ -67,10 +67,10 @@ To read the full research, check out the following resources:
 
 <div class="container">
     <div class="title">
-        <a href="/assets/files/undergrad_thesis.pdf">Honours Research Paper</a>
+        <a href="/assets/files/undergrad_thesis.pdf" target="_blank" > Honours Research Paper</a>
     </div>
     <div class="image-container">
-        <a href="/assets/files/undergrad_thesis.pdf">
+        <a href="/assets/files/undergrad_thesis.pdf" target="_blank">
             <!-- The addition of the shadow-img class -->
             <img class="shadow-img" src="/assets/images/thesis_screenshot.png" alt="undergrad_thesis"/>
         </a>
@@ -79,10 +79,10 @@ To read the full research, check out the following resources:
 
 <div class="container">
     <div class="title">
-        <a href="/assets/files/thesis_presentation.pdf">Presentation</a>
+        <a href="/assets/files/thesis_presentation.pdf" target="_blank" >Presentation</a>
     </div>
     <div class="image-container">
-        <a href="/assets/files/thesis_presentation.pdf">
+        <a href="/assets/files/thesis_presentation.pdf" target="_blank" >
             <!-- And here as well -->
             <img class="shadow-img" src="/assets/images/thesis_presentation_screenshot.png" alt="thesis_presentation"/>
         </a>
