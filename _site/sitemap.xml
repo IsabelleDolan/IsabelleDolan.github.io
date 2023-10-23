@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/portfolio/projects/pairpol/</loc>
+<lastmod>2023-10-22T22:27:38-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/projects/thesis/</loc>
+<lastmod>2023-10-22T22:27:38-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/projects/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/assets/files/resume.pdf</loc>
+<lastmod>2023-10-21T12:07:23-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/assets/files/thesis.pdf</loc>
+<lastmod>2023-10-21T12:07:23-04:00</lastmod>
+</url>
+</urlset>
