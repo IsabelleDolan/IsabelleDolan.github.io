@@ -21,24 +21,28 @@ title: Isabelle Dolan
 email: isabelle.dolan24@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Engineering portfolio for Isabelle Dolan.
-#baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+url: "https://IsabelleDolan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  IsabelleDolan
 repository: "IsabelleDolan/IsabelleDolan.github.io"
 
 # Build settings
 #theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-feed
+
 minimal_mistakes_skin: "contrast" # "air"
 locale: "en-US"
 
-url: https://IsabelleDolan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: "/portfolio" # the subpath of your site, e.g. "/blog"
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
 
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
@@ -78,7 +82,6 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-
 
 
 
