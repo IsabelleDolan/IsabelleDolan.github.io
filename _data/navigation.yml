@@ -5,4 +5,4 @@ main:
     url: /projects/
   - title: "Resume"
     url: /assets/files/resume.pdf
-    new_tab: true
+    html: true
