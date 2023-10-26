@@ -2,7 +2,7 @@
 title: "Designing and Simulating Wavelength Shifting Geometry in an Active Helium Target"
 header:
   teaser: /assets/images/target.png
-excerpt: "I designed and simulated wavelength shifting geometry for a proposed active helium target at the Mainz Microtron in Germany as part of my honours thesis."
+excerpt: "I designed and subsequently simulated the efficacy of several configurations of wavelength shifting fibers to be placed inside a proposed active helium target at the Mainz Microtron in Germany as part of my honours thesis."
 order: 1
 share: false
 layout: single
@@ -12,11 +12,11 @@ classes: wide
 
 Scalar polarizabilities are fundamental characteristics closely related to the internal structure of nucleons. While the polarizabilities of the proton have been well studied, the neutron remains elusive due to the lack of a free-neutron target.
 
-Based at the Institute for Nuclear Physics in Germany, the A2 Collaboration has proposed a new active helium target filled with helium isotopes that would allow better access to the neutron. This design would allow for the collection of scintillation light within the active volume, which would reduce backgrounds. The blast of photons emitted from each collision are in the vacuum ultraviolet, while the silicon photomultipliers used only detect in the 200 – 900 nm range. Thus, a wavelength shifting material is needed.
+Based at the Institute for Nuclear Physics in Germany, the A2 Collaboration proposed a new active helium target filled with helium isotopes that would allow better access to the neutron. This design would allow for the collection of scintillation light within the active volume, which would reduce backgrounds. The blast of photons emitted from each collision is in the vacuum ultraviolet, while the silicon photomultipliers used only detect in the 200 – 900 nm range. Thus, a wavelength shifting material is needed.
 
-This research examines potential configurations of wavelength shifting fibers to be placed within the target and simulates the light collection and output of each design. Monte Carlo and Geant4 simulations were carried out to compare scintillation light collection between potential wavelength shifter geometries.
+This research examined potential configurations of wavelength shifting fibers to be placed within the target and simulated the light collection and output of each design. Monte Carlo and Geant4 simulations were carried out to compare scintillation light collection between potential wavelength shifter geometries.
 
-The results of this work, along with future analysis, will provide integral insight for building the next prototype. Once the target is built, the neutron scalar polarizabilities can be applied to help explain quantum chromodynamics in the non-perturbative region.
+The results of this work, along with future analysis, will provide integral insight for building the next prototype. Once a target is built, the neutron scalar polarizabilities can be applied to help explain quantum chromodynamics in the non-perturbative region.
 
 
 To read the full research, check out the following resources:
